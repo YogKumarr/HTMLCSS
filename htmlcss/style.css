@@ -1,0 +1,28 @@
+
+body {
+color: #eee;
+font-size: 1.125rem;
+font-family: system-ui;
+line-height: 1.5;
+}
+.wrapper {
+width: min (900px, 100% - 3rem);
+margin-inline: auto;
+}
+table{
+    background: cyan;
+    width: 60%;}
+td,tr{
+color: black;
+font-size: 1.125rem;
+font-family: system-ui;
+}
+table,td,tr,th{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
